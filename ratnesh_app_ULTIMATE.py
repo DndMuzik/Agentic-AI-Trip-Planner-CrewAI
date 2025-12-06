@@ -225,7 +225,14 @@ def run_booking_crew(category, from_loc, to_loc, date, details):
                      </div>
                      """, unsafe_allow_html=True)
                      
-                     # Fallback to Ollama (Tier 5)
+                     # Fallback to Ollama (Tier 5) - ONLY if not on cloud
+                     import os
+                     is_cloud = os.getenv("STREAMLIT_RUNTIME_ENV") == "cloud" or (hasattr(st, "secrets") and "GROQ_API_KEY" in st.secrets)
+                     
+                     if is_cloud:
+                         st.error("❌ Cloud Deployment Error: Both Groq and Google API keys failed. Please check your st.secrets configuration. Local Ollama fallback is disabled on cloud.")
+                         return f"Error: ALL LLM TIERS FAILED. Please check API Keys."
+                     
                      backup_llm = get_llm(force_ollama=True)
                      booking_expert.llm = backup_llm
                      crew = Crew(agents=[booking_expert], tasks=[task], verbose=True)
