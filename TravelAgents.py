@@ -128,7 +128,23 @@ def get_llm(force_groq=False, force_ollama=False, force_google=False):
             return llm
         except Exception as e:
             print(f"⚠️ Google Gemini 1.5 Pro failed: {str(e)}")
-            print("🔄 [TIER 5] Falling back to local Ollama...")
+            print("🔄 [TIER 5] Trying Google Gemini 1.5 Flash (Legacy)...")
+            
+    # ============================================================================
+    # TIER 5: Try Google Gemini 1.5 Flash (Most Stable Backup)
+    # ============================================================================
+    if not force_groq and GOOGLE_API_KEY and GOOGLE_API_KEY != "your-google-api-key-here":
+        try:
+            print("🚀 [TIER 5] Attempting Google Gemini 1.5 Flash...")
+            llm = LLM(
+                model="gemini/gemini-1.5-flash",
+                api_key=GOOGLE_API_KEY
+            )
+            print("✅ Google Gemini 1.5 Flash initialized successfully!")
+            return llm
+        except Exception as e:
+            print(f"⚠️ Google Gemini 1.5 Flash failed: {str(e)}")
+            print("🔄 [TIER 6] Falling back to local Ollama...")
     
     # ============================================================================
     # TIER 5: Ollama (Local Fallback - Always Available)
