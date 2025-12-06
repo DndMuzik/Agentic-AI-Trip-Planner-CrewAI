@@ -1,15 +1,17 @@
 # Core Framework
-streamlit>=1.28.0
+streamlit>=1.33.0
 
 # AI & LLM
 crewai>=0.28.0
-crewai[tools]
+crewai[tools]>=0.28.0
 langchain>=0.1.0
-langchain-ollama
-langchain_community
-crewai_tools
+langchain-community>=0.0.10
+langchain-core>=0.1.10
+langchain-groq
+langchain-google-genai
 
-# LLM Providers
+# LLM Providers & Utilities
+litellm>=1.0.0
 groq>=0.4.0
 google-generativeai>=0.3.0
 
@@ -21,8 +23,5 @@ pysqlite3-binary
 
 # Utilities
 python-dotenv>=1.0.0
+watchdog
 
-# Optional - Advanced Features
-# Uncomment if using Serper or Browserless
-# serper-api
-# browserless
