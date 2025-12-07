@@ -396,6 +396,10 @@ Curated list of popular destinations worldwide.
   - Jerusalem, Israel
   - Bologna, Italy
   - And many more...
+<img width="2863" height="1513" alt="Screenshot 2025-12-06 192402" src="https://github.com/user-attachments/assets/cb6d381c-f14c-4048-b6c7-4d400cb4fbbc" />
+<img width="2546" height="1401" alt="Screenshot 2025-12-06 192426" src="https://github.com/user-attachments/assets/5980c5a0-2ef6-496d-a864-7118d89763f9" />
+<img width="2578" height="1456" alt="Screenshot 2025-12-06 192442" src="https://github.com/user-attachments/assets/1e0d251a-a1b8-4b88-9fc1-429a3be52b2a" />
+<img width="2625" height="1449" alt="Screenshot 2025-12-06 192503" src="https://github.com/user-attachments/assets/5e7c68b7-c7ca-449b-a8f0-5f9a4f907535" />
 
 ### 13. 💡 **Travel Tips**
 Expert advice and travel hacks.
@@ -407,6 +411,11 @@ Expert advice and travel hacks.
 - **Health & Safety**: Medical prep, emergency contacts
 - **Cultural Etiquette**: Do's and don'ts by country
 - **Tech Tips**: Apps, tools, connectivity
+<img width="2856" height="1516" alt="Screenshot 2025-12-06 192536" src="https://github.com/user-attachments/assets/56c40e40-b40e-45c8-bfe4-7eb0ae46fd15" />
+<img width="2480" height="1437" alt="Screenshot 2025-12-06 192558" src="https://github.com/user-attachments/assets/c0a6486e-eb3c-4c07-968e-1b75aa8ce780" />
+<img width="2459" height="1403" alt="Screenshot 2025-12-06 192629" src="https://github.com/user-attachments/assets/cb8d1741-164f-40a0-98a5-5e91506aed16" />
+<img width="2450" height="1416" alt="Screenshot 2025-12-06 192643" src="https://github.com/user-attachments/assets/26827701-3b16-4f25-8219-13fcf4be9808" />
+<img width="2395" height="1453" alt="Screenshot 2025-12-06 192706" src="https://github.com/user-attachments/assets/e5f8aa4a-003a-4aad-a036-60eb663f2bd4" />
 
 ---
 
