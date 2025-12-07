@@ -49,6 +49,11 @@
 - **💾 Search History**: Automatic saving and retrieval of all searches with rich card layouts
 - **🎯 Interest-Based Planning**: Customizable itineraries based on 24+ travel interests
 - **🌍 Global Coverage**: Support for 50+ countries and 500+ cities worldwide
+---
+## 🌐🎬 Live Demo
+🚀 **Try it now:**
+- **Streamlit Profile** - https://share.streamlit.io/user/ratnesh-181998
+- **Project Demo** - https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/
 
 ---
 
