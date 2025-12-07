@@ -289,9 +289,16 @@ AI-powered flight search with real-time data.
   - Flight duration and layovers
   - Booking links
   - Price alerts and recommendations
+<img width="940" height="487" alt="image" src="https://github.com/user-attachments/assets/92d61353-efa6-4c7a-83ae-85e362fe8f5c" />
+<img width="940" height="513" alt="image" src="https://github.com/user-attachments/assets/d315814e-3935-4fca-b9a5-e1d8bd2b184c" />
+<img width="940" height="518" alt="image" src="https://github.com/user-attachments/assets/0e5212e5-5a6b-4489-95f7-b2f928785079" />
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/1582004f-8c20-4533-97bd-2f97718d7cff" />
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/7b23cd3a-a410-4a61-acb8-91bc76bf66f9" />
 
 ### 5. 📜 **Flight History**
 Track all flight searches with detailed metadata.
+<img width="940" height="509" alt="image" src="https://github.com/user-attachments/assets/b986fa5f-f462-4bb3-b31c-7dd1ac977e27" />
+<img width="940" height="495" alt="image" src="https://github.com/user-attachments/assets/00fb7f1e-802e-4911-9b0a-578e62261f63" />
 
 ### 6. 🏨 **Hotels Search**
 Comprehensive hotel search powered by AI.
@@ -307,9 +314,16 @@ Comprehensive hotel search powered by AI.
   - Budget-friendly choices
   - Location-based suggestions
   - User ratings and reviews
+<img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/d1b8932d-15a2-46f2-bef9-599300eb5d0e" />
+<img width="940" height="493" alt="image" src="https://github.com/user-attachments/assets/161fdd7d-4e22-4043-b61c-89d4ed6e8f01" />
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/02e5adee-e119-4fda-b2cc-fecf88935f7b" />
+<img width="940" height="508" alt="image" src="https://github.com/user-attachments/assets/b96b21fc-b2ff-4204-8df6-5305a5f6685f" />
 
 ### 7. 📜 **Hotel History**
 Archive of all hotel searches with rich previews.
+<img width="940" height="506" alt="image" src="https://github.com/user-attachments/assets/dfb955ad-388c-4665-9a3d-1d9e0e864667" />
+<img width="940" height="511" alt="image" src="https://github.com/user-attachments/assets/6dcdd976-12ea-4670-9a7e-779d1d81bf6c" />
+<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/0683956b-da7e-48d7-b9c3-9b3eb29ab88c" />
 
 ### 8. 🚆 **Trains Search**
 Railway options for intercity and international travel.
@@ -323,9 +337,15 @@ Railway options for intercity and international travel.
   - Most scenic journeys
   - Budget options
   - Booking tips
+<img width="940" height="495" alt="image" src="https://github.com/user-attachments/assets/00e4d024-f6af-4978-bce1-2249b4eb99f0" />
+<img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/f579916f-aa23-449b-9625-58fe30369ef2" />
+<img width="940" height="461" alt="image" src="https://github.com/user-attachments/assets/60a637df-3633-429f-aed2-2edde16d2f7c" />
+<img width="940" height="498" alt="image" src="https://github.com/user-attachments/assets/05144b6c-5d58-4fc3-b997-cf957e7b304e" />
+<img width="940" height="484" alt="image" src="https://github.com/user-attachments/assets/66bd0dd3-54f1-43bd-a22b-ff155fa3cce1" />
 
 ### 9. 📜 **Train History**
 Historical train search records.
+<img width="940" height="502" alt="image" src="https://github.com/user-attachments/assets/b312585f-b055-450f-9d7d-6b03966b375e" />
 
 ### 10. 🚌 **Buses Search**
 Budget-friendly bus travel options.
