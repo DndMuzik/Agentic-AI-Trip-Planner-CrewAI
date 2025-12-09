@@ -1,4 +1,4 @@
-# 🌍 Agentic AI Trip Planner - Powered by CrewAI
+# 🌍 Agentic AI Trip Planner - Powered by CrewAI & LangChain 
 
 <div align="center">
 
